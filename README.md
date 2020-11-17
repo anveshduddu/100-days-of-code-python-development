@@ -9,9 +9,8 @@ rules
 - You can walk one day a week, but not two days in a row
 - All absenteeism does not count
 
-
-Twitter Link 
-* https://twitter.com/DudduAnvesh
+https://github.com/anveshduddu/
+https://twitter.com/DudduAnvesh
 
 Start Time  |  End Time
 -----------|-----------
