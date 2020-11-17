@@ -4,7 +4,6 @@ rules
 
 - Spend 1 hour learning Python every day 
 - At least half the time should be spent on code
-- After each session, briefly describe the progress and what exactly I did that day
 - There must be at least one commit in the repository every day
 - You can walk one day a week, but not two days in a row
 - All absenteeism does not count
