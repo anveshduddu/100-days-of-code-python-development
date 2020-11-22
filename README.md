@@ -1,4 +1,5 @@
 # 100-days-of-code-python-development
+<h1>Hackerrank solutions were provided for only knowledge purpose</h1>
 
 rules
 
