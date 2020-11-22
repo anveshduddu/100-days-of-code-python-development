@@ -9,7 +9,7 @@ rules
 - All absenteeism does not count
 
 * https://github.com/anveshduddu/
-* https://twitter.com/DudduAnvesh
+* https://twitter.com/DudduAnvesh [follow my twitter account to know check file description]
 
 Start Time  |  End Time
 -----------|-----------
